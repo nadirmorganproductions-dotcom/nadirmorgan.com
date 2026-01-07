@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Nadir Morgan — Audio Engineering Portfolio</title>
+    <meta
+      name="description"
+      content="Nadir Morgan — Audio Engineer portfolio. Scrollable credibility page with selected work and credits."
+    />
+    <meta name="theme-color" content="#0b0b0c" />
+
+    <link rel="preconnect" href="https://www.youtube-nocookie.com" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+
+  <body>
+    <header class="header">
+      <div class="container header-inner">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true"></div>
+          <div class="brand-text">
+            <div class="name">Nadir Morgan</div>
+            <div class="tagline">Audio Engineer • Music & Media</div>
+          </div>
+        </div>
+
+        <nav class="nav">
+          <a class="nav-link" href="#work">Work</a>
+          <a class="nav-link" href="#contact">Contact</a>
+          <a class="nav-link subtle" href="https://www.linkedin.com/in/nadir-morgan/" target="_blank" rel="noreferrer">LinkedIn</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="container hero-grid">
+          <div class="hero-left">
+            <h1>Credibility you can press play on.</h1>
+
+            <!-- Replace this block with your LinkedIn "About" section text -->
+            <p class="bio">
+              Paste your LinkedIn bio here. Keep it 4–10 lines. Mention your specialties
+              (mixing, mastering, recording, live, podcasts), notable stats (ex: 1B+ streams),
+              and what you’re available for.
+            </p>
+
+            <div class="hero-actions">
+              <a class="btn" href="#work">View work</a>
+              <a class="btn btn-ghost" href="#contact">Book / Contact</a>
+            </div>
+
+            <div class="hero-metrics" aria-label="Highlights">
+              <div class="metric">
+                <div class="metric-k">Roles</div>
+                <div class="metric-v">Mix • Master • Recording</div>
+              </div>
+              <div class="metric">
+                <div class="metric-k">Location</div>
+                <div class="metric-v">Los Angeles, CA</div>
+              </div>
+              <div class="metric">
+                <div class="metric-k">Focus</div>
+                <div class="metric-v">Music • Media • Live</div>
+              </div>
+            </div>
+          </div>
+
+          <aside class="hero-right">
+            <div class="card">
+              <div class="card-title">Quick links</div>
+              <div class="card-body">
+                <!-- Update these anytime -->
+                <a class="link-row" href="mailto:YOUR_EMAIL_HERE">
+                  <span>Email</span><span class="muted">YOUR_EMAIL_HERE</span>
+                </a>
+                <a class="link-row" href="https://www.linkedin.com/in/nadir-morgan/" target="_blank" rel="noreferrer">
+                  <span>LinkedIn</span><span class="muted">/in/nadir-morgan</span>
+                </a>
+                <a class="link-row" href="https://instagram.com/" target="_blank" rel="noreferrer">
+                  <span>Instagram</span><span class="muted">@_____</span>
+                </a>
+              </div>
+            </div>
+
+            <div class="card subtle-card">
+              <div class="card-title">How this page works</div>
+              <div class="card-body muted">
+                Scroll the work below. Each card is clickable and playable.
+                Neutral design, fast load, simple credibility.
+              </div>
+            </div>
+          </aside>
+        </div>
+      </section>
+
+      <section id="work" class="section">
+        <div class="container section-head">
+          <div>
+            <h2>Work</h2>
+            <p class="muted">
+              A scrollable list of projects. Tap a card to open on YouTube or press play in the embed.
+            </p>
+          </div>
+
+          <div class="controls">
+            <input id="search" class="input" type="search" placeholder="Search by artist/title/role…" />
+            <select id="roleFilter" class="select">
+              <option value="all">All roles</option>
+              <option value="Mix">Mix</option>
+              <option value="Master">Master</option>
+              <option value="Recording">Recording</option>
+              <option value="Sound">Sound</option>
+              <option value="Engineering">Engineering</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="container">
+          <div id="workGrid" class="grid" aria-live="polite"></div>
+
+          <div id="emptyState" class="empty" hidden>
+            No results. Try a different search term.
+          </div>
+        </div>
+      </section>
+
+      <section id="contact" class="section section-alt">
+        <div class="container contact">
+          <div>
+            <h2>Contact</h2>
+            <p class="muted">
+              For bookings, mixes/masters, sessions, or media work—reach out.
+            </p>
+
+            <div class="contact-actions">
+              <a class="btn" href="mailto:YOUR_EMAIL_HERE?subject=Portfolio%20Inquiry%20—%20Nadir%20Morgan">Email me</a>
+              <a class="btn btn-ghost" href="https://www.linkedin.com/in/nadir-morgan/" target="_blank" rel="noreferrer">Message on LinkedIn</a>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-title">Notes</div>
+            <div class="card-body muted">
+              If you want, I can also add:
+              a “Press / Placements” section, Spotify/Apple buttons, downloadable resume,
+              and a clean “Services” block (rates can be hidden or shown).
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <footer class="footer">
+        <div class="container footer-inner">
+          <div class="muted">© <span id="year"></span> Nadir Morgan</div>
+          <div class="muted">nadirmorgan.com</div>
+        </div>
+      </footer>
+    </main>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
