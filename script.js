@@ -63,7 +63,7 @@ const WORK = [
 
   // --- NEW ADDITIONS ---
   {
-    title: "OGM Live - Lazer Dim 700 - FOREIGN (928)",
+    title: "OGM Live - Lazer Dim 700",
     role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=nVtwipoRHP0"
   },
@@ -73,17 +73,17 @@ const WORK = [
     url: "https://www.youtube.com/watch?v=Tjg6EGSWYgs"
   },
   {
-    title: "OGM Live - Karrahbooo",
+    title: "OGM Live - Chuckyy",
     role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=N6PDM7rCjEk"
   },
   {
-    title: "OGM Live - Anycia",
+    title: "OGM Live - BabyChiefDoIt",
     role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=GgqMhuLWn3E"
   },
   {
-    title: "OGM Live - Glokk40Spaz",
+    title: "OGM Live - Chito Ranaz",
     role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=1FloAcq90Mo"
   },
@@ -93,7 +93,7 @@ const WORK = [
     url: "https://www.youtube.com/watch?v=uQPV2ZIS2MM"
   },
   {
-    title: "EBK Jaaybo - Pixelated",
+    title: "EBK Jaaybo - Straight to Hell",
     role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=tW2nr6ZhYjw"
   },
@@ -103,17 +103,17 @@ const WORK = [
     url: "https://www.youtube.com/watch?v=NE7NPg9FM7A"
   },
   {
-    title: "YSR Gramz - Beecher Baby",
+    title: "YSR Gramz - Summer Time",
     role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=E_PJbtcFTB8"
   },
   {
-    title: "YSR Gramz - Cash Out",
+    title: "YSR Gramz - Do My Dance",
     role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=uHrqt1qpa-I"
   },
   {
-    title: "YSR Gramz - Yung Sak Runner (Live)",
+    title: "YSR Gramz - Yung Sak Runner",
     role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=40qEHH6bRv0"
   }
