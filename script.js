@@ -1,5 +1,5 @@
 const WORK = [
-  // Add/adjust titles/roles anytime. These are your provided links.
+  // --- EXISTING VIDEOS ---
   {
     title: "BBG Steppaa / EBK Jaaybo / Li Rye / EBK Leebo — Gimme That (Vlog Challenge)",
     role: "Engineering",
@@ -56,9 +56,66 @@ const WORK = [
     url: "https://www.youtube.com/watch?v=rW2aldEUw64"
   },
   {
-    title: "OGM SoundCheck — Hurricane Wisdom performs “Afraid” & “Woosah” (Recording + Mix/Master credits list includes nadir.mp3)",
+    title: "OGM SoundCheck — Hurricane Wisdom",
     role: "Recording",
     url: "https://www.youtube.com/watch?v=yo0TfmfiHiE"
+  },
+
+  // --- NEW ADDITIONS ---
+  {
+    title: "OGM Live - Lazer Dim 700 - FOREIGN (928)",
+    role: "Mix",
+    url: "https://www.youtube.com/watch?v=nVtwipoRHP0"
+  },
+  {
+    title: "OGM Live - Younginsosleaze",
+    role: "Mix",
+    url: "https://www.youtube.com/watch?v=Tjg6EGSWYgs"
+  },
+  {
+    title: "OGM Live - Karrahbooo",
+    role: "Mix",
+    url: "https://www.youtube.com/watch?v=N6PDM7rCjEk"
+  },
+  {
+    title: "OGM Live - Anycia",
+    role: "Mix",
+    url: "https://www.youtube.com/watch?v=GgqMhuLWn3E"
+  },
+  {
+    title: "OGM Live - Glokk40Spaz",
+    role: "Mix",
+    url: "https://www.youtube.com/watch?v=1FloAcq90Mo"
+  },
+  {
+    title: "Well Well Well - BabyChiefDoit",
+    role: "Sound",
+    url: "https://www.youtube.com/watch?v=uQPV2ZIS2MM"
+  },
+  {
+    title: "EBK Jaaybo - Pixelated",
+    role: "Engineering",
+    url: "https://www.youtube.com/watch?v=tW2nr6ZhYjw"
+  },
+  {
+    title: "Yn Jay - Aww Yeah",
+    role: "Engineering",
+    url: "https://www.youtube.com/watch?v=NE7NPg9FM7A"
+  },
+  {
+    title: "YSR Gramz - Beecher Baby",
+    role: "Mix",
+    url: "https://www.youtube.com/watch?v=E_PJbtcFTB8"
+  },
+  {
+    title: "YSR Gramz - Cash Out",
+    role: "Mix",
+    url: "https://www.youtube.com/watch?v=uHrqt1qpa-I"
+  },
+  {
+    title: "YSR Gramz - Yung Sak Runner (Live)",
+    role: "Mix",
+    url: "https://www.youtube.com/watch?v=40qEHH6bRv0"
   }
 ];
 
