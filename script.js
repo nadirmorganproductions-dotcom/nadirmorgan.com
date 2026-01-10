@@ -2,119 +2,119 @@ const WORK = [
   // --- EXISTING VIDEOS ---
   {
     title: "BBG Steppaa / EBK Jaaybo / Li Rye / EBK Leebo — Gimme That (Vlog Challenge)",
-    role: "Engineering",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=KjBhkKwT44o"
   },
   {
     title: "BBG Steppaa — (Video)",
-    role: "Engineering",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=Sb4wmWPVnKI"
   },
   {
     title: "BBG Steppaa — (Video)",
-    role: "Engineering",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=4IbJb_cV3hM"
   },
   {
     title: "PAYPIG2125 x EBK Jaaybo — Get Stupid! (Auto-generated)",
-    role: "Engineering",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=8jQGtTwzCiw"
   },
   {
     title: "OGM Freestyle — VonOff1700 (Mix by nadir.mp3)",
-    role: "Mix",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=yu_bao_j1ns"
   },
   {
     title: "OGM Freestyle — Bak Jay (Mix by nadir.mp3)",
-    role: "Mix",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=bjGPGvSIYH4"
   },
   {
     title: "Big Sad 1900 — (Video)",
-    role: "Engineering",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=9VjqmqpQNZo"
   },
   {
     title: "Big Sad 1900 x Teeezy — Nothing like your love (Auto-generated)",
-    role: "Engineering",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=dkTyPPlQIv0"
   },
   {
     title: "YouTube Video",
-    role: "Engineering",
+    role: "Recording/Mix/Master",
     url: "https://youtu.be/GfPjlGsx8yA"
   },
   {
     title: "YouTube Video",
-    role: "Engineering",
+    role: "Recording/Mix/Master",
     url: "https://youtu.be/Qv9qTWE5jtg"
   },
   {
     title: "Well Well Well — Episode (OGM)",
-    role: "Sound",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=rW2aldEUw64"
   },
   {
     title: "OGM SoundCheck — Hurricane Wisdom",
-    role: "Recording",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=yo0TfmfiHiE"
   },
 
   // --- NEW ADDITIONS ---
   {
     title: "OGM Live - Lazer Dim 700 - FOREIGN (928)",
-    role: "Mix",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=nVtwipoRHP0"
   },
   {
     title: "OGM Live - Younginsosleaze",
-    role: "Mix",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=Tjg6EGSWYgs"
   },
   {
     title: "OGM Live - Karrahbooo",
-    role: "Mix",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=N6PDM7rCjEk"
   },
   {
     title: "OGM Live - Anycia",
-    role: "Mix",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=GgqMhuLWn3E"
   },
   {
     title: "OGM Live - Glokk40Spaz",
-    role: "Mix",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=1FloAcq90Mo"
   },
   {
     title: "Well Well Well - BabyChiefDoit",
-    role: "Sound",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=uQPV2ZIS2MM"
   },
   {
     title: "EBK Jaaybo - Pixelated",
-    role: "Engineering",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=tW2nr6ZhYjw"
   },
   {
     title: "Yn Jay - Aww Yeah",
-    role: "Engineering",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=NE7NPg9FM7A"
   },
   {
     title: "YSR Gramz - Beecher Baby",
-    role: "Mix",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=E_PJbtcFTB8"
   },
   {
     title: "YSR Gramz - Cash Out",
-    role: "Mix",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=uHrqt1qpa-I"
   },
   {
     title: "YSR Gramz - Yung Sak Runner (Live)",
-    role: "Mix",
+    role: "Recording/Mix/Master",
     url: "https://www.youtube.com/watch?v=40qEHH6bRv0"
   }
 ];
